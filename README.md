@@ -23,7 +23,6 @@ GUI Framework: Tkinter (Windows) / Kivy (Android)
 
 Security Engine: secrets (PEP 506 compliant)
 
-Binary Size: ~10MB (Standalone executable)
 
 📥 Usage
 Launch passgen.
